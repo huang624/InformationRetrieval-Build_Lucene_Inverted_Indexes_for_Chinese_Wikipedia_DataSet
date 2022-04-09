@@ -1,1 +1,1 @@
-# InformationRetrieval_Build_Lucene_Inverted_Indexes_on_Chinese_Wikipedia_DataSet
+# InformationRetrieval-Build_Lucene_Inverted_Indexes_on_Chinese_Wikipedia_DataSet
