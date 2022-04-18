@@ -24,8 +24,8 @@ Then, we save data as json file to bulid Lucene Inverted Indexes.
 
 ## Building Lucene Inverted Indexes
 ``` python
-!python -m pyserini.index.lucene \  # data here
-  --collection JsonCollection \
+!python -m pyserini.index.lucene \ 
+  --collection JsonCollection \  # data here
   --input ./resources \
   --language zh \
   --index ./indexes \
