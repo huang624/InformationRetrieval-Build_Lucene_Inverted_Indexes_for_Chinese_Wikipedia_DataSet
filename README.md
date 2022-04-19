@@ -20,7 +20,7 @@ for data in datas:
 
 {'id': '2', 'contents': '六羰基鎢是一種配位化合物，化學式爲W(CO)。經過它得到了第一個雙氫配合物。它是無色固體，和同族的羰基配合物六羰基鉻與六羰基鉬一樣，是揮發性的且在空氣中穩定的物質，其中鎢原子爲0價。六羰基鎢在超酸中可以被氧化：'}  
 
-Then, we save data as json file to bulid Lucene Inverted Indexes.  
+We save data as json file to bulid Lucene Inverted Indexes.  
 
 ## Building Lucene Inverted Indexes
 ``` python
